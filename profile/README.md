@@ -9,6 +9,7 @@
 [Linktree](https://linktr.ee/te_langley)
 
 ### ❗Important
+The Tech Elevator Curriculum materials will begin using Vue 3 as of September 2023.  For your convenience, we have provided repositories for both Vue 2 and Vue 3 final capstone starter code. Additional resources for migrating to Vue 3 will be available soon!
 
 <!--
 
