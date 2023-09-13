@@ -6,6 +6,8 @@
 3. Finally, clone the repository to your local machine.
 
 ### Additional Resources
+[Linktree](https://linktr.ee/te_langley)
+
 <!--
 
 **Here are some ideas to get you started:**
