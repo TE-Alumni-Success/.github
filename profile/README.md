@@ -1,12 +1,14 @@
 ## Welcome to the TE Alumni Success GitHub! 👋
 
-### To use these repositories:
+### 🫡 To use these repositories:
 1. Navigate to the repository you want to use.
 2. **FORK** the repository to your GitHub.
 3. Finally, clone the repository to your local machine.
 
-### Additional Resources
+### ⛏️ Additional Resources
 [Linktree](https://linktr.ee/te_langley)
+
+### ❗Important
 
 <!--
 
