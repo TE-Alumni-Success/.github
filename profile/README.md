@@ -10,7 +10,7 @@
 5. Happy coding!
 
 ### ⛏️ Additional Resources
-[Linktree](https://linktr.ee/te_langley)
+[Linktree](https://linktr.ee/techelevatorgreen)
 
 ### ❗Important
 The Tech Elevator Curriculum materials will begin using Vue 3 as of September 2023.  For the interested coder, we have provided repositories for both Vue 2 and Vue 3 final capstone starter code, but the TE Alumni Success Team will not be migrating to Vue 3 until December 2023.
